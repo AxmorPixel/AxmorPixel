@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @A11Lexx
-- 👀 I’m interested in ...PonyTowm
+- 👋 Hi, 
+- 👀 I’
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...Ponytown
-- 📫 How to reach me ...https://vk.com/lf.teamthunderingreendlyi
+- 💞️ I’m looking to collaborate on .
+- 📫 
 
 <!---
 AxmorPixel/AxmorPixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
